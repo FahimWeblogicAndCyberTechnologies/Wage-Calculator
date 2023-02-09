@@ -1,0 +1,13 @@
+C:\Users\FAHIMWEBLOGIC\source\repos\wage cal\wage cal\bin\Debug\wage cal.exe.config
+C:\Users\FAHIMWEBLOGIC\source\repos\wage cal\wage cal\bin\Debug\wage cal.exe
+C:\Users\FAHIMWEBLOGIC\source\repos\wage cal\wage cal\bin\Debug\wage cal.pdb
+C:\Users\FAHIMWEBLOGIC\source\repos\wage cal\wage cal\bin\Debug\wage cal.xml
+C:\Users\FAHIMWEBLOGIC\source\repos\wage cal\wage cal\obj\Debug\wage cal.vbproj.AssemblyReference.cache
+C:\Users\FAHIMWEBLOGIC\source\repos\wage cal\wage cal\obj\Debug\wage cal.vbproj.SuggestedBindingRedirects.cache
+C:\Users\FAHIMWEBLOGIC\source\repos\wage cal\wage cal\obj\Debug\wage_cal.Form1.resources
+C:\Users\FAHIMWEBLOGIC\source\repos\wage cal\wage cal\obj\Debug\wage_cal.Resources.resources
+C:\Users\FAHIMWEBLOGIC\source\repos\wage cal\wage cal\obj\Debug\wage cal.vbproj.GenerateResource.cache
+C:\Users\FAHIMWEBLOGIC\source\repos\wage cal\wage cal\obj\Debug\wage cal.vbproj.CoreCompileInputs.cache
+C:\Users\FAHIMWEBLOGIC\source\repos\wage cal\wage cal\obj\Debug\wage cal.exe
+C:\Users\FAHIMWEBLOGIC\source\repos\wage cal\wage cal\obj\Debug\wage cal.xml
+C:\Users\FAHIMWEBLOGIC\source\repos\wage cal\wage cal\obj\Debug\wage cal.pdb
